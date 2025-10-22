@@ -1,0 +1,7 @@
+| Step                       | Name                                                                                                                                  | 
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | 
+| **1. Elicitation**         | Gathering requirements from users, clients, or stakeholders using methods like interviews, surveys, observations, and questionnaires. |             
+| **2. Analysis**            | Studying and refining the collected requirements to check for conflicts, feasibility, and clarity. Prioritize the important ones.     |             
+| **3. Specification**       | Documenting the analyzed requirements clearly in a **Software Requirement Specification (SRS)** document.                             |             
+| **4. Design & Validation** | Checking with stakeholders if the documented requirements match what they actually want (verification & validation).                  |  
+| **5. Management**          | Handling any changes in requirements after the project starts (versioning, updates, traceability, etc.).                              |   
